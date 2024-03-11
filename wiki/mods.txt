@@ -1,0 +1,360 @@
+Advanced Netherite
+by Autovw
+fabric-1.6.7-mc1.19.2
+
+Architectury API
+by
+6.5.85+fabric
+
+Async Locator
+by bright_spark
+1.19.2-1.3.1
+
+BCLib
+by quiqueck
+2.1.8
+
+Balm
+by BlayTheNinth
+4.6.0+fabric-1.19.2
+
+Better Combat
+by ZsoltMolnarrr
+1.7.1+1.19-fabric
+
+BetterEnd
+by quiqueck
+2.1.7
+
+BetterNether
+by quiqueck
+7.1.5
+
+Biome Makeover
+by Lemon
+fabric-1.19.2-1.6.4
+
+Boat Item View
+by 50ap5ud5
+1.19.1-1.19.2-fabric
+
+Bookshelf
+by Darkhax
+16.3.20
+
+CIT Resewn
+by shsupercm
+1.1.2+1.19.2
+
+Cardinal Components API
+by
+5.0.2
+
+Chunky
+by pop4959
+1.3.38
+
+Clear Water
+by PricelessKoala
+2.0
+
+Cloth Config API
+by shedaniel
+8.3.115+fabric
+
+Clumps
+by jaredlll08
+9.0.0+14
+
+Collective
+by Serilum
+1.19.2-7.37-fabric+forge
+
+CorgiLib
+by CorgiTaco
+1.19.2-1.0.0.34-fabric
+
+Cull Less Leaves
+by isxander
+
+Debugify
+by isxander
+2.8.0
+
+Dramatic Skys
+by thebaum64
+1.5.3.18
+
+Dynamic FPS
+by juliand665
+3.4.2
+
+Eating Animation
+by theoness1
+1.9.1
+
+Eating Animation - BetterVanillaBuilding Addon
+by TurtleBear
+1.0
+
+Ecotones
+by jaskarth
+0.9.1
+
+Enchantment Descriptions
+by Darkhax
+13.0.14
+
+Entity Culling
+by tr7zw
+1.6.1-mc1.19.2
+
+Even Better Enchants
+by mythitorium
+1-19
+
+FPS Reducer
+by bre2el
+1.19.2-2.1
+
+Fabric API
+by modmuss50
+0.77.0+1.19.2
+
+Fabric Language Kotlin
+by modmuss50
+1.10.19+kotlin.1.9.23
+
+Fabric Seasons
+by D4rkness_King
+2.3+1.19
+
+FabricSkyboxes
+by AMereBagatelle
+mc1.19.2-0.7.2
+
+FerriteCore
+by malte0811
+5.0.3-fabric
+
+Forge Config API Port
+by Fuzs
+4.2.11
+
+Geckolib
+by Gecko
+3.1.40
+
+Get It Together, Drops!
+by bl4ckscor3
+v1.3
+
+ImmediatelyFast
+by RaphiMC
+1.2.10+1.19.2-fabric
+
+Inventory Profiles Next
+by blackd
+fabric-1.19.2-1.10.9
+
+Iris Shaders
+by coderbot
+1.6.11+1.19.2
+
+JourneyMap
+by mysticdrew
+1.19.2-5.9.7p1-fabric
+
+Just Enough Items
+by mezz
+11.6.0.1019
+
+Just Enough Professions (JEP)
+by Mrbysco
+2.0.2
+
+Just Enough Resources (JER)
+by way2muchnoise
+1.2.3.243
+
+Language Reload
+by Jerozgen
+1.5.10+1.19.2
+
+LazyDFU
+by astei
+0.1.3
+
+Leaves Be Gone
+by Fuzs
+v4.0.1-1.19.2-Fabric
+
+Let Me Despawn
+by frikinjay
+1.18.x-1.19.x-fabric-quilt-1.0.2
+
+Lithium
+by jellysquid3
+mc1.19.2-0.11.1
+
+MakeUp - Ultra Fast
+by javiergcim
+8.9c
+
+Memory Leak Fix
+by FX
+v1.1.5
+
+Mod Menu
+by
+4.2.0-beta.2
+
+Model Gap Fix
+by MehVahdJukaar
+1.8
+
+Nature's Compass
+by Chaosyr
+1.19.2-2.1.0-fabric
+
+No Arrows In You!
+by PanJohnny
+1.3.0
+
+No Feather Trample
+by Serilum
+1.19.2-1.2-fabric+forge+neo
+
+No Hostiles Around Campfire
+by Serilum
+1.19.2-5.9-fabric+forge
+
+No More Glowing Potions
+by zabi94
+1.0.2
+
+No More Purple
+by Pepperoni-Jabroni
+1.0.1+1.19
+
+No Nether Portal Overlay
+by SmushyTaco
+1.0.3
+
+No Night Vision Flickering
+by semper-idem
+0.1.3
+
+No Screen Bobbing
+by Inboundbark
+1.4
+
+No Tutorial Toasts
+by hYdos
+1.0.0
+
+Oh The Biomes You'll Go
+by AOCAWOL
+1.19.2-2.0.1.6-fabric
+
+Puzzles Lib
+by Fuzs
+v4.4.3-1.19.2-Fabric
+
+Resourceful Config
+by
+1.0.20
+
+Shulker Box Tooltip
+by MisterPeModder
+3.2.2+1.19.2-fabric
+
+Sodium
+by jellysquid3
+mc1.19.2-0.4.4
+
+Tectonic
+by Apollo
+2.2
+
+TerraBlender
+by Adubbz
+2.0.1.166
+
+Too Many Players
+by Feytox
+1.19-1.1.4
+
+ToolTipFix
+by kyrptonaught
+1.1.0-1.19
+
+Towns and Towers
+by Biban_Auriu
+1.10.0.a
+
+Translations for Sodium
+by robotkoer
+v1.11.0
+
+Traveler's Backpack
+by Tiviacz1337
+1.19.2-8.2.33
+
+Vanilla Refresh
+by limesplatus
+1.4.17c+mod
+
+Vanilla Sky Villages
+by UHC
+1.0.1
+
+Very Many Players (Fabric)
+by ishland
+0.2.0+beta.7.30+1.19.2
+
+Video Tape
+by Anthus
+1.2.1
+
+Village Bell Recipe
+by Serilum
+1.19.2-3.2-fabric+forge+neo
+
+VillagerQuests
+by Globox1997
+1.0.7
+
+Waystones
+by BlayTheNinth
+11.4.2+fabric-1.19.2
+
+YetAnotherConfigLib
+by isxander
+1.7.1
+
+[📦] No Unused Chunks
+by TheCSDev
+v2.0+fabric-1.19.2
+
+fast-ip-ping
+by fallen-breath
+mc1.19.4-v1.0.1
+
+libIPN
+by blackd
+fabric-1.19.2-4.0.1
+
+no-surface-lava-lakes.zip
+
+playerAnimator
+by KosmX
+1.0.2-fabric
+
+qrafty's End Villages
+by qrafty
+1+mod
+
+qrafty's Jungle Villages
+by qrafty
+1+mod
